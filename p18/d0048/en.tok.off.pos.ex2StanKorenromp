@@ -1,0 +1,83 @@
+0 7 1001 Armenia NNP COU https://en.wikipedia.org/wiki/Armenia
+8 11 1002 has VBZ 
+12 20 1003 launched VBN 
+21 23 1004 an DT 
+24 30 1005 aerial JJ 
+31 38 1006 tramway NN 
+39 43 1007 line NN 
+44 48 1008 that WDT 
+49 51 1009 it PRP 
+52 56 1010 says VBZ 
+57 59 1011 is VBZ 
+60 63 1012 the DT 
+64 69 1013 world JJ 
+69 71 1014 's NN 
+72 79 1015 longest . 
+79 80 1016 . NNP 
+82 91 2001 President NNP PER https://nl.wikipedia.org/wiki/Serzj_Sarkisian
+92 97 2002 Serzh NNP PER https://nl.wikipedia.org/wiki/Serzj_Sarkisian
+98 107 2003 Sarkisian VBD PER https://nl.wikipedia.org/wiki/Serzj_Sarkisian
+108 116 2004 attended DT 
+117 120 2005 the VBG 
+121 128 2006 opening IN 
+129 131 2007 of DT 
+132 135 2008 the NN 
+136 143 2009 tramway NNP 
+144 152 2010 Saturday , 
+152 153 2011 , IN 
+154 156 2012 in DT 
+157 160 2013 the NN 
+161 168 2014 country POS 
+168 170 2015 's NN 
+171 179 2016 southern NNS 
+180 189 2017 mountains IN 
+190 194 2018 near NNP 
+195 202 2019 Armenia POS COU https://en.wikipedia.org/wiki/Armenia
+202 204 2020 's NN 
+205 211 2021 border IN 
+212 216 2022 with NNP 
+217 221 2023 Iran . COU
+221 222 2024 . DT 
+224 227 3001 The JJ 
+228 241 3002 5.7-kilometer NN 
+242 253 3003 engineering NN 
+254 258 3004 feat NNS 
+259 264 3005 spans DT 
+265 268 3006 the NNP 
+269 276 3007 Vorotan NNP NAT https://en.wikipedia.org/wiki/Vorotan_(river)
+277 282 3008 River NN NAT https://en.wikipedia.org/wiki/Vorotan_(river)
+283 288 3009 gorge , 
+288 289 3010 , VBG 
+290 297 3011 linking DT 
+298 299 3012 a NN 
+300 307 3013 village RP 
+308 311 3014 off DT 
+312 315 3015 the JJ 
+316 320 3016 main NN 
+321 328 3017 highway TO 
+329 331 3018 to DT 
+332 335 3019 the JJ 
+336 339 3020 9th NN 
+340 347 3021 century NNP 
+348 353 3022 Tatev NNP 
+354 363 3023 Monastery . 
+363 364 3024 . DT 
+366 369 4001 The NN 
+370 379 4002 monastery VBZ 
+380 382 4003 is CD 
+383 386 4004 one IN 
+387 389 4005 of DT 
+390 393 4006 the NN 
+394 401 4007 country POS 
+401 403 4008 's JJS 
+404 410 4009 oldest CC 
+411 414 4010 and JJS 
+415 419 4011 most JJ 
+420 429 4012 prominent NNS 
+430 441 4013 monasteries CC 
+442 445 4014 and VBZ 
+446 448 4015 is DT 
+449 450 4016 a JJ 
+451 456 4017 major NN 
+457 464 4018 tourist NN 
+465 475 4019 attraction . 
